@@ -1,5 +1,4 @@
-# Hackathon
-# dla szkół
+# Hackathon dla szkół
 
 School HackDay to ogólnopolski hackathon dla szkół,
 organizowany przez Nową Erę i Sanomę Learning,
